@@ -50,10 +50,10 @@ git restore <file-name> # To restore specific files git restore . # To restore a
 git restore --staged <file-name>
 git commit --amend -m "Updated commit message"
 ![Step 4 Screenshot](screenshots/step6.png)
-![Step 4 Screenshot](screenshots/step6.1png)
-![Step 4 Screenshot](screenshots/step6.2png)
-![Step 4 Screenshot](screenshots/step6.3png)
-![Step 4 Screenshot](screenshots/step6.4png)
+![Step 4 Screenshot](screenshots/step6.1.png)
+![Step 4 Screenshot](screenshots/step6.2.png)
+![Step 4 Screenshot](screenshots/step6.3.png)
+![Step 4 Screenshot](screenshots/step6.4.png)
 ### Step 5: Tagging and Branching
 
 This step covered how to organize and reference specific points in your project and manage multiple workflows.
@@ -70,8 +70,8 @@ git switch <branch-name>
 git switch main
 git merge <branch-name>
 ![Step 5 Screenshot](screenshots/step7.tagging.png)
-![Step 5 Screenshot](screenshots/step7.1png)
-![Step 5 Screenshot](screenshots/step7.2png)
+![Step 5 Screenshot](screenshots/step7.1.png)
+![Step 5 Screenshot](screenshots/step7.2.png)
 
 ### Step 6: History
 
@@ -87,13 +87,13 @@ git revert <commit-hash>
 git reset --soft <commit-hash>
 git reset --hard <commit-hash>
 ![Step 6 Screenshot](screenshots/step8.png)
-![Step 6 Screenshot](screenshots/step8.1png)
-![Step 6 Screenshot](screenshots/step8.2png)
-![Step 6 Screenshot](screenshots/step8.3png)
-![Step 6 Screenshot](screenshots/step8.4png)
-![Step 6 Screenshot](screenshots/step8.5png)
-![Step 6 Screenshot](screenshots/step8.6png)
-![Step 6 Screenshot](screenshots/step8.7png)
+![Step 6 Screenshot](screenshots/step8.1.png)
+![Step 6 Screenshot](screenshots/step8.2.png)
+![Step 6 Screenshot](screenshots/step8.3.png)
+![Step 6 Screenshot](screenshots/step8.4.png)
+![Step 6 Screenshot](screenshots/step8.5.png)
+![Step 6 Screenshot](screenshots/step8.6.png)
+![Step 6 Screenshot](screenshots/step8.7.png)
 
 
 
@@ -111,7 +111,7 @@ To connect a local repository to a GitHub repository:
 - git remote add origin <repository-URL>
 git push origin <branch-name>
 git pull origin <branch-name>
-![Step 7 Screenshot](screenshots/step8.8png)
+![Step 7 Screenshot](screenshots/step8.8.png)
 
 
 
