@@ -50,9 +50,9 @@ git restore <file-name> # To restore specific files git restore . # To restore a
 git restore --staged <file-name>
 git commit --amend -m "Updated commit message"
 ![Step 4 Screenshot](screenshots/step6.png)
-![Step 4 Screenshot](screenshots/step6.1.png)
-![Step 4 Screenshot](screenshots/step6.2.png)
-![Step 4 Screenshot](screenshots/step6.3.png)
+![Step 4 Screenshot](screenshots/step6.1png)
+![Step 4 Screenshot](screenshots/step6.2png)
+![Step 4 Screenshot](screenshots/step6.3png)
 ![Step 4 Screenshot](screenshots/step6.4png)
 ### Step 5: Tagging and Branching
 
