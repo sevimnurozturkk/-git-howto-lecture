@@ -23,7 +23,7 @@ Here is an example of the commands used in Step 1:
 git config --global user.name "Your Name" git config --global user.email "you@example.com"
 git config --global core.autocrlf true git config --global init.defaultBranch main
 Here is an example of the commands used in Step 2:
-![Step 2 Screenshot](screenshots/step2.png)
+![Step 2 Screenshot](screenshots/step2.config.png)
 
 ### Step 3: Adding files into the repository
 
@@ -35,9 +35,9 @@ git init
 git add <file-name> # Or use git add . to add all changes
 git commit -m "Your commit message"
 git status
-![Step 3 Screenshot](screenshots/step3.png)
-![Step 3 Screenshot](screenshots/step4.png)
-![Step 3 Screenshot](screenshots/step5.png)
+![Step 3 Screenshot](screenshots/step3.init.png)
+![Step 3 Screenshot](screenshots/step4.hello.png)
+![Step 3 Screenshot](screenshots/step5.add.png)
 
 ### Step4: Resetting Unwanted Changes
 
@@ -69,7 +69,7 @@ git branch <branch-name>
 git switch <branch-name>
 git switch main
 git merge <branch-name>
-![Step 5 Screenshot](screenshots/step7.png)
+![Step 5 Screenshot](screenshots/step7.tagging.png)
 ![Step 5 Screenshot](screenshots/step7.1png)
 ![Step 5 Screenshot](screenshots/step7.2png)
 
